@@ -1,4 +1,5 @@
 Bu repo'da Patika SQL eğitiminde yapmış olduğunuz bütün ödevler bulunmaktadır.
+
 *SQL Ödev 01 | WHERE ve Karşılaştırma & Mantıksal 
 *SQL Ödev 02 | BETWEEN ve IN 
 *SQL Ödev 03 | LIKE ve ILIKE 
